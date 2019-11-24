@@ -1,0 +1,16 @@
+	 git push origin master
+	 git branch change-couleur-entete
+	 git status
+	 vim style.css
+	 git checkout master
+	 git merge change-couleur-entete
+	 git commit -master
+	 git index.html
+	 index.html
+	 git push origin master
+	 git push origin renommer-entete
+	 git push renommer-entete
+	 git branch
+	 git push --all
+	 git checkout renommer-heading 
+	 touch file.txt
